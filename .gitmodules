@@ -1,3 +1,6 @@
 [submodule "temp_sensor_log"]
 	path = temp_sensor_log
 	url = https://github.com/RystiX/temp_sensor_log.git
+[submodule "libs/temp_sensor_log"]
+	path = libs/temp_sensor_log
+	url = https://github.com/RystiX/temp_sensor_log.git
