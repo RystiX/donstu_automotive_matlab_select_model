@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <MetadataNode>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry key="Name" value="temp_sensor_exp"/>
+            </node>
+        </path>
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <node name="Info">
+                    <entry key="DataType" value="None"/>
+                    <entry key="Name" value="Classification"/>
+                    <entry key="ReadOnly" value="1"/>
+                    <entry key="SingleValued" value="1"/>
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry key="Name" value="Artifact"/>
+                        <entry key="ReadOnly" value="READ_ONLY"/>
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry key="Name" value="Convenience"/>
+                        <entry key="ReadOnly" value="READ_ONLY"/>
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry key="Name" value="Derived"/>
+                        <entry key="ReadOnly" value="READ_ONLY"/>
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry key="Name" value="Design"/>
+                        <entry key="ReadOnly" value="READ_ONLY"/>
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry key="Name" value="None"/>
+                        <entry key="ReadOnly" value="READ_ONLY"/>
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry key="Name" value="Other"/>
+                        <entry key="ReadOnly" value="READ_ONLY"/>
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry key="Name" value="Test"/>
+                        <entry key="ReadOnly" value="READ_ONLY"/>
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints">
+            <path value="3a0480b9-7d61-4074-833b-8f91a46a67b0:type:EntryPoint">
+                <node name="Info">
+                    <entry key="File" value="startup_temp_sensor_exp.m"/>
+                    <entry key="GroupUUID" value=""/>
+                    <entry key="Icon" value=""/>
+                    <entry key="Name" value="startup_temp_sensor_exp"/>
+                    <entry key="Type" value="StartUp"/>
+                    <entry key="Visible" value="0"/>
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:Files">
+            <path value="startup_temp_sensor_exp.m:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry key="UUID" value="FileClassCategory"/>
+                        <node name="Label">
+                            <entry key="UUID" value="design"/>
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value="temp_sensor_exp.slx:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry key="UUID" value="FileClassCategory"/>
+                        <node name="Label">
+                            <entry key="UUID" value="design"/>
+                        </node>
+                    </node>
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:ProjectPath">
+            <path value="f49ee7b4-87c0-4e65-b32a-36fa1e7ffc3b:type:Reference">
+                <node name="Info">
+                    <entry key="Ref" value=""/>
+                    <entry key="Type" value="Relative"/>
+                </node>
+            </path>
+        </path>
+    </MetadataNode>
+    <Files>
+        <File path=".gitignore" value="b22492bf"/>
+        <File path="Temp_sensor_exp.prj" value="fe84b66d"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/t2RcvZgFYe0y-nqyGTWNyI45hc4d.xml" value="50727024"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/t2RcvZgFYe0y-nqyGTWNyI45hc4p.xml" value="f32febac"/>
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1"/>
+        <File path="resources/project/KAXfQgCar2Yb8zOxgvf9hdmLP1E/wE1yIdXUpxQwQcmDNBE4F192Hwkd.xml" value="85d3dc63"/>
+        <File path="resources/project/KAXfQgCar2Yb8zOxgvf9hdmLP1E/wE1yIdXUpxQwQcmDNBE4F192Hwkp.xml" value="e095e806"/>
+        <File path="resources/project/KAXfQgCar2Yb8zOxgvf9hdmLP1E" value="-1"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="a915d71c"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="afe046a3"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="3ab615bf"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="3a4507bf"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="4fe2e12d"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="8739a8f2"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="6c7a05fb"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="28d99701"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="50a7a2af"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="cd91d98b"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="46ae9f21"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="e8544baf"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="9b21088b"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="45d239ae"/>
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1"/>
+        <File path="resources/project/Project.xml" value="1246079c"/>
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="641de123"/>
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="9b1a20ad"/>
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/C7elxiY2KyTjpKqMt_N7GkONuqsd.xml" value="ea65cf7"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/C7elxiY2KyTjpKqMt_N7GkONuqsp.xml" value="2c238c6f"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/eMVTC3FKvivhc0lcI783HDv42fYd.xml" value="ea65cf7"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/eMVTC3FKvivhc0lcI783HDv42fYp.xml" value="8a971fd"/>
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1"/>
+        <File path="resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="429cb5d6"/>
+        <File path="resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="da982804"/>
+        <File path="resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c5cdc4a7"/>
+        <File path="resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="a7c5a64c"/>
+        <File path="resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="dc68b16d"/>
+        <File path="resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="ee2fc10d"/>
+        <File path="resources/project/rootp.xml" value="b62b63f9"/>
+        <File path="resources/project/root" value="-1"/>
+        <File path="resources/project/uuid-fa27ef9f-0f7d-4de9-9d36-5d179be8f6c0.xml" value="b62b63f9"/>
+        <File path="resources/project" value="-1"/>
+        <File path="resources" value="-1"/>
+        <File path="startup_temp_sensor_exp.m" value="5f25e42b"/>
+        <File path="temp_sensor_exp.slx" value="6b1cef68"/>
+    </Files>
+    <Date value="15 октября 2026 г. 15:18:21"/>
+</Info>
