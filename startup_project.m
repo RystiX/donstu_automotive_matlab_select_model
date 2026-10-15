@@ -7,3 +7,5 @@ assignin('base', 'ADC_MIN', 0);
 assignin('base', 'ADC_MAX', 100);
 
 disp('Окружение готово.');
+
+log_hello();
