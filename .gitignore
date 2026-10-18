@@ -6,3 +6,5 @@ slprj/
 *.asv
 *.mex*
 *.log
+
+*.exe
